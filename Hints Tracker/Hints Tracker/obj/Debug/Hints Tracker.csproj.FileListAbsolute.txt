@@ -1,0 +1,13 @@
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\bin\Debug\Hints Tracker.exe.config
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\bin\Debug\Hints Tracker.exe
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\bin\Debug\Hints Tracker.pdb
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\obj\Debug\Hints_Tracker.Tracker.resources
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\obj\Debug\Hints_Tracker.Properties.Resources.resources
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\obj\Debug\Hints Tracker.csproj.GenerateResource.cache
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\obj\Debug\Hints Tracker.csproj.CoreCompileInputs.cache
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\obj\Debug\Hints Tracker.exe
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\obj\Debug\Hints Tracker.pdb
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\bin\Debug\Hints Tracker.exe.manifest
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\bin\Debug\Hints Tracker.application
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\obj\Debug\Hints Tracker.exe.manifest
+C:\Users\Eric\source\repos\Hints Tracker\Hints Tracker\obj\Debug\Hints Tracker.application
